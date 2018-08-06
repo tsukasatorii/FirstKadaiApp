@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  helloworld
+//  HelloWorld
 //
-//  Created by 鳥井都嵩 on 2017/10/22.
-//  Copyright © 2017年 鳥井都嵩. All rights reserved.
+//  Created by 鳥井都嵩 on 2018/08/06.
+//  Copyright © 2018年 tsukasa.torii. All rights reserved.
 //
 
 import UIKit
