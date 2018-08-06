@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  FirstKadaiApp
+//  firstKadaiApp
 //
 //  Created by 鳥井都嵩 on 2018/08/06.
 //  Copyright © 2018年 tsukasa.torii. All rights reserved.
